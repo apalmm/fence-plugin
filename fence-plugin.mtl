@@ -1,0 +1,28 @@
+newmtl Redpart1Mtl
+Material Color
+Ka 1 0 0
+Kd 1 0 0
+Ks 0.396078 0 0 
+
+d 0.501961
+
+Ns 0
+
+newmtl Fencepart11Mtl
+Material Color
+Ka 0.20471 0.106156 0.0581872
+Kd 0.20471 0.106156 0.0581872
+Ks 0.0104362 0.00541188 0.00296641 
+
+d 0.501961
+
+Ns 61
+
+map_Ka Fencepart11_diff.png
+map_Kd Fencepart11_diff.png
+map_d Fencepart11_diff.png
+
+map_Bump Fencepart11_nmap.png
+
+map_Ns Fencepart11_spec.png
+
